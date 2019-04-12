@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="name" >Name</string>
+    <string name="Height" >Height(cm)</string>
+    <string name="Weight" >Weight(kg)</string>
+    <string name="YOLO" >YOLO!!</string>
+    <string name="hello">Hello</string>
+    <string name="yourbmi">your BMI is</string>
+    <string name="heavy">You ar too heavy!!!</string>
+    <string name="slim">You are too slim.</string>
+    <string name="nice">Your body is good!</string>
+</resources>

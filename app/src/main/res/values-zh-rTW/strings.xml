@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="name">請輸入姓名</string>
+    <string name="Height">請輸入身高</string>
+    <string name="Weight">請輸入體重</string>
+    <string name="YOLO">嘿呦!!!</string>
+    <string name="hello">您好</string>
+    <string name="yourbmi">您的BMI是</string>
+    <string name="heavy">死胖子喔!!!</string>
+    <string name="slim">沒吃飯嗎</string>
+    <string name="nice">阿呦西斯喔</string>
+</resources>
